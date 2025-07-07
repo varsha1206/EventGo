@@ -1,0 +1,13 @@
+kafka-python
+pysolar
+requests
+pyspark
+shapely
+streamlit
+streamlit-folium
+pandas
+folium
+watchdog
+geopy
+haversine
+pymongo
