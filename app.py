@@ -18,7 +18,7 @@ KAFKA_TOPIC = "city_requests"
 DATA_DIR = "./current"
 BOOTSTRAP_SERVERS = "localhost:9092"
 WAIT_SECONDS = 30
-TICKETMASTER_API_KEY = "bN9mOHps6ZdE1nIioUAogmd4GnmtxrFs"
+TICKETMASTER_API_KEY = $TICKET_MASTER_API_KEY
 # Kafka Producer Setup
 producer = KafkaProducer(
     bootstrap_servers="localhost:9092",
