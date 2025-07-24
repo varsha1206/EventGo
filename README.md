@@ -15,7 +15,7 @@ EventGo is your go-to app for finding *sunny vibes and good times* in Germany. I
 
 ---
 
-## 🧠 Why I Built It
+## 🧠 Why We Built It
 
 Because sometimes all you need is:
 1. Sunshine ☀️  
